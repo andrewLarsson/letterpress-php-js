@@ -1,0 +1,25 @@
+#game_board {
+	border-collapse: collapse;
+}
+
+tr.game_row {
+	border: 1px solid #666666;
+}
+
+td.game_tile {
+	border: 1px solid #666666;
+	padding: 15px;
+	text-align: center;
+}
+
+.owner_0 {
+	background-color: #AAAAAA;
+}
+
+.owner_1 {
+	background-color: #FF3333;
+}
+
+.owner_2 {
+	background-color: #3333FF;
+}
